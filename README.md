@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahum&label=Profile%20views&color=0e75b6&style=flat" alt="nahum" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thilina13576639" target="blank"><img src="https://img.shields.io/twitter/follow/thilina13576639?logo=twitter&style=for-the-badge" alt="nahum07" /></a> </p>
-
 - 🔭 I’m currently working on [Asescon App](https://github.com/Nahum-SL/mvp-project)
 
 - 🌱 I’m currently learning **Go, Python, Pandas, Numpy**
