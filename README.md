@@ -43,6 +43,3 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhadeepZilong&theme=algolia" alt="SubhadeepZilong" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-Credit: [Th1l1na](https://github.com/Th1l1na)
-Last Edited on: 14/11/2024
